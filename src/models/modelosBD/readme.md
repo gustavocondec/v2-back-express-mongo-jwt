@@ -1,0 +1,1 @@
+Estos modelos seran guardados en la bd directamente. SOlo son usadas en los services
